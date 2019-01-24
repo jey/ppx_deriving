@@ -1,0 +1,11 @@
+{
+  "name": "bs-ppx_deriving",
+  "version": "0.1.0",
+  "devDependencies": {
+    "bs-platform": "^4.0"
+  },
+
+  "peerDependencies": {
+    "bs-platform": "^4.0"
+  }
+}

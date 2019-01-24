@@ -1,0 +1,11 @@
+{
+  "name": "bs-ppx_deriving",
+  "sources": {
+    "dir": "src",
+    "files": [
+      "ppx_deriving_runtime.mli",
+      "ppx_deriving_runtime.ml"
+    ]
+  },
+  "generate-merlin": false
+}
